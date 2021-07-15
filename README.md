@@ -1,12 +1,15 @@
-# MachineLearningUsingPython
-This is my first Repository.
-- Point 1
-- Point 2
 
-___
+#My Repo for latest project at Insaid.
 
-```
+##Here is the list of Projects.
 
-
-print("Hello World")
-```
+ - [HealthCare](http://github.com/S-V-Singh/MachineLearningUsingPython/tree/main/HealthCarep:// "HealthCare")
+ - Automobile
+ - Finance
+ - Banking
+ 
+|HealthCare  |[![HealthCare](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Health_insurance_fraud.jpeg "HealthCare")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Health_insurance_fraud.jpeg "HealthCare")  |
+| :------------: | :------------: |
+|[![Automobile](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Automobile.jpeg "Automobile")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Automobile.jpeg "Automobile")   | Automobile  |
+|Finance  |[![Finance](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "Finance")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "Finance")    |
+|[![Banking](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Banking.png "Banking")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Banking.png "Banking")   |Banking   |
