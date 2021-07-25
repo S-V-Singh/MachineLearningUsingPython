@@ -7,6 +7,7 @@
  - Automobile
  - Finance
  - Banking
+ 
 |[![EDA](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Automobile.jpeg "Automobile")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/EDA.jpeg "EDA")   | EDA  | 
 | :------------: | :------------: |
 |HealthCare  |[![HealthCare](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Health_insurance_fraud.jpeg "HealthCare")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Health_insurance_fraud.jpeg "HealthCare")  |
