@@ -9,13 +9,12 @@ The process of learning begins with data, such as, direct experience, or instruc
 <br><br>
 ##Here is the list of Projects.
 
- - - [HealthCare](https://github.com/S-V-Singh/MachineLearningUsingPython/tree/main/HealthCare "HealthCare")
- - Automobile
- - Finance
- - Banking
- 
-|HealthCare  |[![HealthCare](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Health_insurance_fraud.jpeg "HealthCare")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Health_insurance_fraud.jpeg "HealthCare")  |
-| :------------: | :------------: |
-|[![Automobile](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Automobile.jpeg "Automobile")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Automobile.jpeg "Automobile")   | Automobile  |
-|Finance  |[![Finance](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "Finance")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "Finance")    |
-|[![Banking](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Banking.png "Banking")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Banking.png "Banking")   |Banking   |
+## Repository Overview
+This repository is about different Machine Learning algorithm approaches as per the industry practices.
+
+## Table of Contents
+- [HealthCare Provider Fraud Detection](#section1)<br>
+- [Credit Fraud Detection](#section2)<br>
+- [Spam Detection](#section3)<br>
+
+| [![](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Images/Fraud_Detection.jpeg)](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Images/Fraud_Detection.jpeg)|
