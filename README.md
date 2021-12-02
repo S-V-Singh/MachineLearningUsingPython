@@ -1,6 +1,6 @@
 
 # MachineLearningUsingPython
-![[![Machine learning](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/Images/Categories-of-Machine-Learning.jpg)](C:\Users\HP\Desktop\Github\Categories-of-Machine-Learning.jpg "Machine learning")](image/banner.png)<br><br>
+[Machine learning](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/blob/main/Images/Categories-of-Machine-Learning.jpg)](C:\Users\HP\Desktop\Github\Categories-of-Machine-Learning.jpg "Machine learning")](image/banner.png)<br><br>
 Machine Learning is a latest __buzzword__ floating around. It desrves to, as it is one of the most interesting subfield of Computer Science.<br>
 __What does Machine Learning really means?__<br>
 Machine Learning is an application of artificial intelligence(AI) that provides systems the ability  to automatically learn and improve from experience without being explicitly programmed.<br>
