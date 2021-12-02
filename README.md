@@ -36,3 +36,4 @@ c) Misrepresenting the service provided.
 d) Charging for a more complex or expensive service than was actually provided.
 
 e) Billing for a covered service when the service actually provided was not covered.
+[Link for the Jupyter notebook](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Provider_Fraud_Analysis.ipynb "Link for the Jupyter notebook")
