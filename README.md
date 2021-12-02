@@ -19,5 +19,5 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [Spam Detection](#section3)<br>
 ___
 <a id=section1></a>
-### [[HealthCare Provider Fraud Detection]
+### HealthCare Provider Fraud Detection
 | [![](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Images/Fraud_Detection.jpeg)](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Images/Fraud_Detection.jpeg)|
