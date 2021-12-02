@@ -9,7 +9,7 @@ The process of learning begins with data, such as, direct experience, or instruc
 <br><br>
 ##Here is the list of Projects.
 
- - [HealthCare](http://github.com/S-V-Singh/MachineLearningUsingPython/tree/main/HealthCarep:// "HealthCare")
+ - [HealthCare](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/tree/main/HealthCarep:// "HealthCare")
  - Automobile
  - Finance
  - Banking
