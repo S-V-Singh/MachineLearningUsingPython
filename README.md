@@ -37,4 +37,4 @@ d) Charging for a more complex or expensive service than was actually provided.
 
 e) Billing for a covered service when the service actually provided was not covered. <br>
 
-[Link for the Jupyter notebook](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Provider%20Fraud%20Detection%20Model.ipynb "Link for the Jupyter notebook")
+[Link for the Jupyter notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/HealthCare/Provider%20Fraud%20Detection%20Model.ipynb "Link for the Jupyter notebook")
