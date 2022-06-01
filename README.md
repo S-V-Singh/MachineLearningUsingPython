@@ -50,4 +50,15 @@ a) By using my alogorithm trader will get Demand and supply zone. They can run t
 
 b) This algorithm work on every time frame (only by updating LTF and HTF values)
 
-[Link for the Jupyter notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/Trading%20Strategies/Demand%20%26%20Supply%20Zone.py "Link for the Jupyter notebook")
+[Link for the Spyder notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/Trading%20Strategies/Demand%20%26%20Supply%20Zone.py "Link for the Jupyter notebook")
+
+<a id=section1></a>
+### Test the Compressive Stregth of Concrete
+
+##### - Introduction: -
+Concrete is considered by many to be a strong and durable material, and rightfully so. But there are different ways to assess concrete strength. Perhaps even more importantly, these strength properties each add different qualities to concrete that make it an ideal choice in various use cases.
+
+The company has developed a new concrete solution which can be a potential game-changer for the company in the market but they are not sure about the concrete compressive strength which is a very important factor for concrete sale.
+
+Now the company can know the compressive strength of Concrete by using algorithm.
+[Link for the Jupyter notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/Compressive%20Strength.ipynb "Link for the Jupyter notebook")
