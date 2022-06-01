@@ -43,3 +43,11 @@ e) Billing for a covered service when the service actually provided was not cove
 ### Trading Strategy
 #### 1) - Find the Demand and Supply Zone
 | [![](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Trading%20Strategies/Images/Demand%20and%20supply%20zone.JPG)|<br>
+
+Finding the Demand and Supplying zone manually took lots of time, going through charts and set the chart on different times frames, and find the zone. making this automated saves lots of time and increase the accuracy. now traders do not need to screen every stock to look for the zone. In two minutes of time by runing the algorithm they can get the zone to trade. and according they can manage their trades.
+
+a) By using my alogorithm trader will get Demand and supply zone. They can run the alorightm during trading hours or after trading hours as well.
+
+b) This algorithm work on every time frame (only by updating LTF and HTF values)
+
+[Link for the Jupyter notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/HealthCare/Provider%20Fraud%20Detection%20Model.ipynb "Link for the Jupyter notebook")
