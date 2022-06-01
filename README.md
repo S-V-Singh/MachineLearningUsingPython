@@ -62,4 +62,4 @@ Concrete is considered by many to be a strong and durable material, and rightful
 The company has developed a new concrete solution which can be a potential game-changer for the company in the market but they are not sure about the concrete compressive strength which is a very important factor for concrete sale.
 
 Now the company can know the compressive strength of Concrete by using algorithm.
-[Link for the Jupyter notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/Compressive%20Strength.ipynb "Link for the Jupyter notebook")
+[Link for the Jupyter notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/Other%20Projects/Compressive%20Strength.ipynb "Link for the Jupyter notebook")
