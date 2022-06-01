@@ -50,4 +50,4 @@ a) By using my alogorithm trader will get Demand and supply zone. They can run t
 
 b) This algorithm work on every time frame (only by updating LTF and HTF values)
 
-[Link for the Jupyter notebook](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Trading%20Strategies/Demand%20%26%20Supply%20Zone.py "Link for the Jupyter notebook")
+[Link for the Jupyter notebook](https://github.com/S-V-Singh/MachineLearningUsingPython/blob/main/Trading%20Strategies/Demand%20%26%20Supply%20Zone.py "Link for the Jupyter notebook")
