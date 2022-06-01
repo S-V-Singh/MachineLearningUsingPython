@@ -42,4 +42,4 @@ e) Billing for a covered service when the service actually provided was not cove
 <a id=section1></a>
 ### Trading Strategy
 #### 1) - Find the Demand and Supply Zone
-| [![]([https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Images/Fraud_Detection.jpeg)](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stoc.jpeg](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Trading%20Strategies/Images/Demand%20and%20supply%20zone.JPG))|<br>
+| [![]([https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/HealthCare/Images/Fraud_Detection.jpeg)](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stoc.jpeg](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Trading%20Strategies/Images/Demand%20and%20supply%20zone.JPG)|<br>
