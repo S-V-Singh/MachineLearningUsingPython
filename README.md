@@ -54,6 +54,7 @@ b) This algorithm work on every time frame (only by updating LTF and HTF values)
 
 <a id=section1></a>
 ### Test the Compressive Stregth of Concrete
+| [![](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Other%20Projects/Images/Compressive-Strength-of-concrete.jpg)|<br>
 
 ##### - Introduction: -
 Concrete is considered by many to be a strong and durable material, and rightfully so. But there are different ways to assess concrete strength. Perhaps even more importantly, these strength properties each add different qualities to concrete that make it an ideal choice in various use cases.
